@@ -3,6 +3,8 @@ SAP Cloud Integration Tool
 
 > Available for both Mac and Windows 
 
+![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/main.png)
+
 ### Highlights
 - **Tabbed based explorer**<br>
 - **Search packages across environments**<br>
