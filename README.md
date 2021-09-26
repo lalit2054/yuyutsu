@@ -19,5 +19,5 @@ SAP Cloud Integration Tool
 - Add atleast two connections<br>
 - Select one connection and add Targets from section at the right side<br>
 
-![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/connection.png)
+![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/connections.png)
 
