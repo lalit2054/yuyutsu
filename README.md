@@ -58,3 +58,43 @@ This tab is most important one to perform different types of action.
   - Transport and Deploy - This will transport as well as deploy the artifact in the target tenant.
 
 ![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/packageTransport.png)
+
+## Code comparison
+
+Here you can compare the code of the artifact. The contents of the Target environment is shown on left side while for Source environment, its shown on right side. This works exactly like Git, where lower verion is shown on left and higher on right, so you can view the changes done on top of lower version.
+
+- You have two views to choose from
+  - Side by Side (Default) - Two sections to show code differences
+  - Inline View - Inline code differences are shown
+- Folder view of artifact is shown on the left side 
+  - File with different content on source and target tenants are marked as **distinct**
+  - New files added will be marked as **added**
+  - Missing files will be marked as **missing**
+
+![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/codeview.png)
+
+## Configuration comparison
+
+Here you can compare the configurations present in source and target tenants. 
+
+- You have two views to choose from
+  - Diff view (Default) - This view shows configurations whose values are different in both the tenants
+  - Full View - This view view will show all the configurations.
+- Update the configuration values that you want to set in the input field for target tenant.
+- You can use **Transport** or **Transport and Deploy**. This will also update the configurations.
+ 
+
+![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/configview.png)
+
+## Search Panel
+
+![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/search.png)
+
+## Notification Tab
+
+![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/notification.png)
+
+## App updates and Bug Report
+
+![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/bug.png)
+
