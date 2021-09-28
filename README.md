@@ -1,7 +1,10 @@
 # Yuyutsu
 SAP Cloud Integration Tool
 
+A very beautiful app to transport Cloud Integration artifacts from one tenant to another. Not just transport, you can generate comparison report and view the exact difference between source and target artifacts till code level. So to make sure, what exactly you are transporting.
+
 > Available for both Mac and Windows 
+> As this is my personal project and executables are not signed, you will get warning before installing it. I have made sure that the app only makes the connection to SAP Cloud Integration tenants. And most important, passwords are saved in OS specific vaults, i.e. for Windows it uses Credential Vault and for Mac OS it uses Keychain.
 
 ![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/main.png)
 
@@ -88,13 +91,26 @@ Here you can compare the configurations present in source and target tenants.
 
 ## Search Panel
 
+The very initial version of global search, as of now supports searching only Packages across different tenants. In future more powerful search functionality will be delivered with this panel. Click any of the packages and you will be redirected to Transport package tab.
+
 ![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/search.png)
 
 ## Notification Tab
 
+A very informative tab to show all the peristent notifications. A very beautiful timeline of the activities happened during the task will be shown. The notification will be automatically removed after 4 days.
+
 ![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/notification.png)
 
 ## App updates and Bug Report
+
+Click Bug and you can perform following actions -
+
+- Check for updates - 
+  - Windows OS - It will allow to download and apply the updates.
+  - Mac OS - It will redirect to downdload page if updates are available.
+- Report Bug
+- Request Feature
+- Provide Feedback
 
 ![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/bug.png)
 
