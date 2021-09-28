@@ -3,6 +3,7 @@ SAP Cloud Integration Tool
 
 A very beautiful app to transport Cloud Integration artifacts from one tenant to another. Not just transport, you can generate comparison report and view the exact difference between source and target artifacts till code level. So to make sure, what exactly you are transporting.
 
+
 > Available for both Mac and Windows <br>
 > As this is my personal project and executables are not signed, you will get warning before installing it. I have made sure that the app only makes the connection to SAP Cloud Integration tenants. And most important, passwords are saved in OS specific vaults, i.e. for Windows it uses Credential Vault and for Mac OS it uses Keychain.
 
@@ -114,3 +115,8 @@ Click Bug and you can perform following actions -
 
 ![alt text](https://github.com/lalit2054/yuyutsu/raw/main/screenshots/bug.png)
 
+## Future
+
+I'm planning to add more features which will help to explore Cloud Integration just by switching connection on top.
+
+**Stay tuned for more features**
